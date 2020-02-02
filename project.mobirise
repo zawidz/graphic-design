@@ -2785,7 +2785,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Twórcze",
@@ -2799,6 +2799,19 @@
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
                 "active": false
+              },
+              {
+                "tags": "Twórcze",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/untitled-4-960x719.png",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-4-960x719-800x599.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tutaj wstaw opis",
+                "active": true
               }
             ]
           }
